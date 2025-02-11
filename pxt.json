@@ -1,5 +1,6 @@
 {
     "name": "robot200-RockPaperScissors-TeacherCode",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
