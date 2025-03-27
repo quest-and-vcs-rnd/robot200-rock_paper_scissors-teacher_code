@@ -58,3 +58,11 @@ quest_Note_1.quest_Show_String_For_Note_Big_Func(
 quest_Note_1.quest_Show_String_For_Note_Big_Func(
 "Setup Code for Student:"
 )
+basic.forever(function () {
+    quest_Note_1.quest_Show_String_For_Note_Small_Func(
+    "Ver 1.1.1: 25-0326-1800"
+    )
+    quest_Note_1.quest_Show_String_For_Note_Small_Func(
+    "©️ 2025 Quest Institute. All rights reserved."
+    )
+})
